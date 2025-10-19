@@ -2,6 +2,7 @@
 # **BÀI LUẬN CHI TIẾT VỀ PHẦN MỀM HỆ THỐNG ĐIỂM DANH XE BẰNG CÔNG NGHỆ NHẬN DIỆN BIỂN SỐ**
 
 ---
+##DOWNLOAD AND CHECK SOURCECODE AT: 
 
 ## **PHẦN 1: MỞ ĐẦU - GIỚI THIỆU TỔNG QUAN**
 
@@ -256,3 +257,4 @@ Với khả năng hoạt động 24/7, xử lý nhanh chóng và lưu trữ dữ
 
 
 (c) Copyright by Phan Hoài Ân, student of class 11A1.
+
